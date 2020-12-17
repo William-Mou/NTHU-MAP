@@ -528,7 +528,7 @@ class _CategoryButtonBar extends StatelessWidget {
                   ? Colors.green[700]
                   : Colors.lightGreen,
               child: const Text(
-                'Favorites',
+                '將要去...',
                 style: TextStyle(color: Colors.white, fontSize: 14.0),
               ),
               onPressed: () => onChanged(PlaceCategory.favorite),
@@ -538,7 +538,7 @@ class _CategoryButtonBar extends StatelessWidget {
                   ? Colors.green[700]
                   : Colors.lightGreen,
               child: const Text(
-                'Visited',
+                '曾去過...',
                 style: TextStyle(color: Colors.white, fontSize: 14.0),
               ),
               onPressed: () => onChanged(PlaceCategory.visited),
@@ -548,7 +548,7 @@ class _CategoryButtonBar extends StatelessWidget {
                   ? Colors.green[700]
                   : Colors.lightGreen,
               child: const Text(
-                'Want To Go',
+                '我想去...',
                 style: TextStyle(color: Colors.white, fontSize: 14.0),
               ),
               onPressed: () => onChanged(PlaceCategory.wantToGo),

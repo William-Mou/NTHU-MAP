@@ -7,9 +7,8 @@ class StubData {
     Place(
       id: '1',
       latLng: LatLng(45.524676, -122.681922),
-      name: 'Deschutes Brewery',
-      description:
-          'Beers brewed on-site & gourmet pub grub in a converted auto-body shop with a fireplace & wood beams.',
+      name: '加簽單跑完要交給誰？',
+      description: '先列印加簽單：校務資訊系統->選課->加簽申請單；完成格子後交給課務組',
       category: PlaceCategory.favorite,
       starRating: 5,
     ),
@@ -96,46 +95,41 @@ class StubData {
     ),
     Place(
       id: '11',
-      latLng: LatLng(45.548606, -122.675286),
-      name: 'Mississippi Pizza',
-      description:
-          'Music, trivia & other all-ages events featured at pizzeria with lounge & vegan & gluten-free pies.',
+      latLng: LatLng(24.793606735408204, 120.99166994703407),
+      name: '健康檢查上的「新體」在哪？',
+      description: '新生領航營隊期間，必須前往新體育館做檢查。',
       category: PlaceCategory.wantToGo,
       starRating: 4,
     ),
     Place(
       id: '12',
-      latLng: LatLng(45.420226, -122.740347),
-      name: 'Oswego Grill',
-      description:
-          'Wood-grilled steakhouse favorites served in a casual, romantic restaurant with a popular happy hour.',
+      latLng: LatLng(24.7946293, 120.9944097),
+      name: '加簽單跑完要交給誰？',
+      description: '先列印加簽單：校務資訊系統->選課->加簽申請單；完成格子後交給課務組',
       category: PlaceCategory.wantToGo,
       starRating: 4,
     ),
     Place(
       id: '13',
-      latLng: LatLng(45.541202, -122.676432),
-      name: 'The Widmer Brothers Brewery',
-      description:
-          'Popular, enduring gastropub serving craft beers, sandwiches & eclectic entrees in a laid-back space.',
+      latLng: LatLng(24.790636145559237, 120.9956800421843),
+      name: '清交小徑在哪裡？',
+      description: '清交小徑位於清交交接處，但路上缺乏指標、撲朔迷離。',
       category: PlaceCategory.wantToGo,
       starRating: 4,
     ),
     Place(
       id: '14',
-      latLng: LatLng(45.559783, -122.924103),
-      name: 'TopGolf',
-      description:
-          'Sprawling entertainment venue with a high-tech driving range & swanky lounge with drinks & games.',
+      latLng: LatLng(24.79100940663517, 120.9938320103239),
+      name: '宿舍一區服務中心在哪？',
+      description: '位於義齋，負責服務 明、平、善、華、新、誠、義、清、學 、鴻齋宿舍庶務',
       category: PlaceCategory.wantToGo,
       starRating: 5,
     ),
     Place(
       id: '15',
-      latLng: LatLng(45.485612, -122.784733),
-      name: 'Uwajimaya Beaverton',
-      description:
-          'Huge Asian grocery outpost stocking meats, produce & prepared foods plus gifts & home goods.',
+      latLng: LatLng(24.79234596180174, 120.99436195312522),
+      name: '撿到學生證要交給誰？',
+      description: '撿到學生證或遺失物，可以就近交給水木餐廳樓上的教官室',
       category: PlaceCategory.wantToGo,
       starRating: 5,
     ),

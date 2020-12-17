@@ -78,13 +78,13 @@ class _CategoryButton extends StatelessWidget {
     String _buttonText;
     switch (category) {
       case PlaceCategory.favorite:
-        _buttonText = 'Favorites';
+        _buttonText = '預計要去';
         break;
       case PlaceCategory.visited:
-        _buttonText = 'Visited';
+        _buttonText = '曾去過...';
         break;
       case PlaceCategory.wantToGo:
-        _buttonText = 'Want To Go';
+        _buttonText = '我想去...';
     }
 
     return Container(
